@@ -1,0 +1,37 @@
+liste-twists:
+- Prix aleatoire des items dans le shop
+- Convertisseur de ressources dans le shop
+- Enchants customs achetables
+- Craft custom
+- Sneak bloquer
+- Inflation, plus tu achete un item plus le prix augmente
+- Items random dans le shop
+- Tous les blocks cassables sur la map
+- Mob aleatoire nous Spawn dessus tous les X temps
+- Pvp desactiver.
+- Acheter des coeurs permanents au shop
+- Chaque mort on gagne un effet de speed supérieur
+- Tout les X temps on a un effet aléatoire.
+- Echange de position tous les X temps
+- Tous les joueurs invisibles aux yeux des autres
+- Plus d'ameliorations avec les diamant
+
+twists:
+  more-knockback: false
+  blocked-sneak: false
+  speed-boost-on-death: false
+  random-effects: false
+  position-swapping: false
+  random-mob-spawns: false
+  disabled-pvp: false
+  more-diamond-upgrades: false
+  random-shop-prices: false
+  resource-converter: false
+  custom-enchants: false
+  custom-crafting: false
+  item-inflation: false
+  random-shop-items: false
+  breakable-blocks: false
+  permanent-hearts: false
+  invisible-players: false
+  

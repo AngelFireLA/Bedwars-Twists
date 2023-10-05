@@ -1,0 +1,10 @@
+name: BwTwists
+version: 1.0
+description: A Minecraft 1.8.9 plugin that does cool things
+main: me.angelfire.bwtwists.BwTwists
+commands:
+  twist:
+permissions:
+  bwtwists.*:
+    description: Grants access to all BwTwists commands and features
+    default: op
